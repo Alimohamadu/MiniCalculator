@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mini Cal</string>
+    <string name="input_a_number">Input a number</string>
+    <string name="first_number">First number</string>
+    <string name="input_second_number">Input second number</string>
+    <string name="second_number">Second number</string>
+    <string name="add">ADD</string>
+    <string name="result">Result</string>
+    <string name="hello_welcome_to_mini_cal">Hello! Welcome to Mini Cal!</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="divide">DIVIDE</string>
+    <string name="about_mini_cal">About Mini Cal</string>
+    <string name="welcome_again">Welcome again</string>
+    <string name="contact">Contact</string>
+    <string name="other_apps">Other Apps</string>
+    <string name="about_statement">Software is more than just a program code. A program is an executable code,
+        which serves some computational purpose. Software is considered to be a collection of executable programming code,
+        associated libraries and documentations. Software, when made for a specific requirement is called software product.</string>
+    <string name="todo">TODO</string>
+</resources>
